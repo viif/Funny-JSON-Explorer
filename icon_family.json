@@ -1,0 +1,18 @@
+{
+  "default": {
+    "container-icon": "   ",
+    "leaf-icon": "   "
+  },
+  "file-explorer": {
+    "container-icon": "📁 ",
+    "leaf-icon": "📄 "
+  },
+  "poker-face": {
+    "container-icon": "♢ ",
+    "leaf-icon": "♤ "
+  },
+  "star-wars": {
+    "container-icon": "⚔ ",
+    "leaf-icon": "⚝ "
+  }
+}
